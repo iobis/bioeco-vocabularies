@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <skos:ConceptScheme xmlns:skos="http://www.w3.org/2004/02/skos/core#" rdf:about="https://goosocean.org/readiness/data">
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">GOOS Readiness - Data management and information products</dc:title>
+    <dcterms:issued xmlns:dcterms="http://purl.org/dc/terms/">2021-12-10T12:00:00</dcterms:issued>
+    <dcterms:modified xmlns:dcterms="http://purl.org/dc/terms/">2021-12-10T12:00:00</dcterms:modified>
+  </skos:ConceptScheme>
+  <skos:Concept rdf:about="https://goosocean.org/readiness/data/1"><skos:prefLabel xml:lang="en">Level 1 - Idea</skos:prefLabel><skos:altLabel xml:lang="en">1</skos:altLabel><skos:inScheme rdf:resource="https://goosocean.org/readiness/data" /></skos:Concept>
+  <skos:Concept rdf:about="https://goosocean.org/readiness/data/2"><skos:prefLabel xml:lang="en">Level 2 - Documentation</skos:prefLabel><skos:altLabel xml:lang="en">2</skos:altLabel><skos:inScheme rdf:resource="https://goosocean.org/readiness/data" /></skos:Concept>
+  <skos:Concept rdf:about="https://goosocean.org/readiness/data/3"><skos:prefLabel xml:lang="en">Level 3 - Proof of concept</skos:prefLabel><skos:altLabel xml:lang="en">3</skos:altLabel><skos:inScheme rdf:resource="https://goosocean.org/readiness/data" /></skos:Concept>
+  <skos:Concept rdf:about="https://goosocean.org/readiness/data/4"><skos:prefLabel xml:lang="en">Level 4 - Trial</skos:prefLabel><skos:altLabel xml:lang="en">4</skos:altLabel><skos:inScheme rdf:resource="https://goosocean.org/readiness/data" /></skos:Concept>
+  <skos:Concept rdf:about="https://goosocean.org/readiness/data/5"><skos:prefLabel xml:lang="en">Level 5 - Verification</skos:prefLabel><skos:altLabel xml:lang="en">5</skos:altLabel><skos:inScheme rdf:resource="https://goosocean.org/readiness/data" /></skos:Concept>
+  <skos:Concept rdf:about="https://goosocean.org/readiness/data/6"><skos:prefLabel xml:lang="en">Level 6 - Operational</skos:prefLabel><skos:altLabel xml:lang="en">6</skos:altLabel><skos:inScheme rdf:resource="https://goosocean.org/readiness/data" /></skos:Concept>
+  <skos:Concept rdf:about="https://goosocean.org/readiness/data/7"><skos:prefLabel xml:lang="en">Level 7 - Fitness for purpose</skos:prefLabel><skos:altLabel xml:lang="en">7</skos:altLabel><skos:inScheme rdf:resource="https://goosocean.org/readiness/data" /></skos:Concept>
+  <skos:Concept rdf:about="https://goosocean.org/readiness/data/8"><skos:prefLabel xml:lang="en">Level 8 - Mission qualified</skos:prefLabel><skos:altLabel xml:lang="en">8</skos:altLabel><skos:inScheme rdf:resource="https://goosocean.org/readiness/data" /></skos:Concept>
+  <skos:Concept rdf:about="https://goosocean.org/readiness/data/9"><skos:prefLabel xml:lang="en">Level 9 - Sustained</skos:prefLabel><skos:altLabel xml:lang="en">9</skos:altLabel><skos:inScheme rdf:resource="https://goosocean.org/readiness/data" /></skos:Concept>
+</rdf:RDF>
