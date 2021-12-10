@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
   <skos:ConceptScheme xmlns:skos="http://www.w3.org/2004/02/skos/core#" rdf:about="https://goosocean.org/readiness/coordination">
     <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">GOOS Readiness - Coordination of observations elements</dc:title>
     <dcterms:issued xmlns:dcterms="http://purl.org/dc/terms/">2021-12-10T12:00:00</dcterms:issued>
